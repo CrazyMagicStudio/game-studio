@@ -1,1 +1,2 @@
-# game-studio
+# Game Studio
+Enjoy!
