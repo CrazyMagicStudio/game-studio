@@ -1,0 +1,23 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-gamestudio-dev-20338-authRole",
+      "UnauthRoleArn": "arn:aws:iam::478062622781:role/amplify-gamestudio-dev-20338-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::478062622781:role/amplify-gamestudio-dev-20338-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-gamestudio-dev-20338-deployment",
+      "UnauthRoleName": "amplify-gamestudio-dev-20338-unauthRole",
+      "StackName": "amplify-gamestudio-dev-20338",
+      "StackId": "arn:aws:cloudformation:us-east-1:478062622781:stack/amplify-gamestudio-dev-20338/e6e58170-ab74-11ed-bc8f-0a8fee37d78b",
+      "AmplifyAppId": "d1s9hr6uy5vycy"
+    },
+    "categories": {
+      "auth": {
+        "gamestudioc4afe1d8": {}
+      },
+      "api": {
+        "gamestudio": {}
+      }
+    }
+  }
+}
